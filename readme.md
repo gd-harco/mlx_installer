@@ -1,7 +1,7 @@
 
 # <p align="center">Minilibx Linux Installer</p>
 
-This is a personnal project I made of bordome to easyli install the Minilibx on Linux.
+This is a personnal project I made out of bordome to easyli install the Minilibx on Linux.
 Feel free to use it and to contribute to it, this is my first "real" script so it's probably not perfect.
 
 
