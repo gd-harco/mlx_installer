@@ -15,8 +15,8 @@ Feel free to use it and to contribute to it, this is my first "real" script so i
 
 ## 🛠️ Usage instruction
 ```bash
-sudo sh ./mlx_installer
-sudo sh ./mlx_uninstaller
+sudo sh mlx_installer
+sudo sh mlx_uninstaller
 ```
 
 ## 🙇 Author
